@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/7f15c283-0646-4f16-81f4-665d1ac50f2f/resourceGroups/react-demo/providers/Microsoft.Web/sites/react-demo-ken",
+    "appService.deploySubpath": "."
+}
