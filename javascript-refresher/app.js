@@ -60,7 +60,7 @@ class Person extends Human {
 
     printMyName = () => console.log(this.name)
   }
-}
+}   
 
 const myPerson = new Person()
 myPerson.printMyName()
